@@ -1,0 +1,78 @@
+{
+    "best-coffee" : [
+        {
+            "id" : 1,
+            "name" : "Solimo Coffee Beans 2 kg",
+            "country" : "Brazil",
+            "price" : 10.73,
+            "img" : "./server_resources/solimo.jpg",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id" : 2,
+            "name" : "Presto Coffee Beans 1 kg",
+            "country" : "Brazil",
+            "price" : 15.99,
+            "img" : "./server_resources/presto.jpg",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id" : 3,
+            "name" : "AROMISTICO Coffee 1 kg",
+            "country" : "Brazil",
+            "price" : 6.99,
+            "img" : "./server_resources/aromistico.jpg",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+    ],
+    "coffee" : [
+        {
+            "id" : 1,
+            "name" : "AROMISTICO Coffee 1 kg",
+            "country" : "Brazil",
+            "price" : 6.99,
+            "img" : "./server_resources/aromistico.jpg",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id" : 2,
+            "name" : "AROMISTICO Coffee 1 kg",
+            "country" : "Kenya",
+            "price" : 6.99,
+            "img" : "./server_resources/aromistico.jpg",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id" : 3,
+            "name" : "AROMISTICO Coffee 1 kg",
+            "country" : "Columbia",
+            "price" : 6.99,
+            "img" : "./server_resources/aromistico.jpg",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id" : 4,
+            "name" : "AROMISTICO Coffee 1 kg",
+            "country" : "Brazil",
+            "price" : 6.99,
+            "img" : "./server_resources/aromistico.jpg",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id" : 5,
+            "name" : "AROMISTICO Coffee 1 kg",
+            "country" : "Brazil",
+            "price" : 6.99,
+            "img" : "./server_resources/aromistico.jpg",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "id" : 6,
+            "name" : "AROMISTICO Coffee 1 kg",
+            "country" : "Brazil",
+            "price" : 6.99,
+            "img" : "./server_resources/aromistico.jpg",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+    ]
+}

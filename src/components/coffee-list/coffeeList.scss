@@ -1,0 +1,12 @@
+.coffee-list {
+    min-height: 760px;
+    &__wrapper {
+        display: grid;
+        grid-template: auto / repeat(3, auto);
+        place-content: center;
+        gap: 60px 70px;
+    }
+    .coffee-item {
+        filter: drop-shadow(5px 5px 15px rgba(0, 0, 0, 0.25));
+    }
+}

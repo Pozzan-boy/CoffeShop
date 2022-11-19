@@ -1,0 +1,37 @@
+.item-view {
+    min-height: 455px;
+    padding-top: 70px;
+    &__wrapper {
+        display: flex;
+        justify-content: center;
+        gap: 55px;
+    }
+    &__img {
+        width: 392px;
+        height: 355px;
+        filter: drop-shadow(5px 5px 30px rgba(0, 0, 0, 0.25));
+    }
+    &__text {
+        width: 418px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+        color: #000000;
+    }
+    &__title {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 35px;
+        color: #000000;
+        text-align: center;
+    }
+    &__price span {
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 35px;
+        color: #000000;
+    }
+    
+}

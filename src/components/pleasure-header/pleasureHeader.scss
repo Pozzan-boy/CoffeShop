@@ -1,0 +1,15 @@
+.pleasure-header {
+    min-height: 260px;
+    padding-top: 52px;
+    background: url('../../resources/img/bg/pleasure-header-bg.jpg') no-repeat center/cover;
+    &__title {
+        margin-top: 60px;
+        display: block;
+        text-align: center;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 58px;
+        color: #FFFFFF;
+    }
+}

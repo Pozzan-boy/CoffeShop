@@ -1,0 +1,41 @@
+.nav-menu {
+    margin-left: 180px;
+    position: relative;
+    width: 330px;
+    &__list {
+        display: flex;
+        justify-content: space-between;
+        list-style-type: none;
+    }
+    &__link {
+        text-decoration: none;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 17px;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        position: relative;
+        &::before {
+            content: '';
+            display: block;
+            position: absolute;
+            width: 0%;
+            height: 2px;
+            border-radius: 3px;
+            bottom: -2px;
+            left: 50%;
+            transform: translateX(-50%);
+            transition: width 0.3s;
+        }
+        &:hover {
+            &::before {
+                width: 80%;
+            }
+        }
+    }
+    .coffee-beans {
+        position: absolute;
+        left: -28px;
+        bottom: 4px;
+    }
+}
